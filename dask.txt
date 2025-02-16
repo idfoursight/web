@@ -1,0 +1,20 @@
+/* Formatted on 27/12/2022 17.48.33 (QP5 v5.252.13127.32847) */
+UPDATE pgs_penerimaan_p2 PARTITION (mpn2022)
+   SET mpn_kunci = '010611341000081722142521',
+       mpn_nosk = '000081722142521',
+       id_prod_hukum_summary = 183579,
+       tgl_st = '20220329',
+       mpn_kjs = '300'
+ WHERE mpn_nttp = '19F025E41BJ53POM';
+
+COMMIT;
+
+UPDATE pgs_penerimaan_p2 PARTITION (mpn2022)
+   SET mpn_kunci = '010611341000081722142521',
+       mpn_nosk = '000081722142521',
+       id_prod_hukum_summary = 183579,
+       tgl_st = '20220329',
+       mpn_kjs = '300'
+ WHERE mpn_nttp = '1C2354HMKF373CKN';
+
+COMMIT;
