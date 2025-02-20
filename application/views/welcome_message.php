@@ -263,7 +263,7 @@ body {
       </div>
       <div class="mastfoot">
         <div class="inner">
-            <p>2025 © Foursight. Design Made By  <a href="https://digitalvichar.com" target="_blank" title="Hardik Gondhiya">Hardik Gondhiya</a>.</p>
+            <p>2025 © Foursight. Design Made By  <a href="#" target="_blank" title="Hardik Gondhiya">Mamang Kesbor</a>.</p>
         </div>
       </div>
   </div>
