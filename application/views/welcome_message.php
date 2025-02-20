@@ -80,6 +80,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <div id="container">
 	COMING SOON..
+	WEB FOURSIGHT..
 </div>
 
 </body>
